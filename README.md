@@ -1,6 +1,6 @@
-## .NET Twitter Bot
+## NuGet Twitter Bot
 
-I am a [twitter bot](https://twitter.com/_dotnetbot_) that retweets .NET related tweets. I am written in .NET Core, running on AWS Lambda and am deployed with CloudFormation and CodePipeline.
+I am a [twitter bot](https://twitter.com/NugetBot) that retweets NuGet related tweets. I am written in .NET Core, running on AWS Lambda and am deployed with CloudFormation and CodePipeline.
 
 ## How to Contribute and Give Feedback
 
